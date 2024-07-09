@@ -97,6 +97,8 @@ hi! link Number           Constant
 hi! link Boolean          Constant
 hi! link Float            Constant
 hi! link String           Constant
+" MJ:
+hi! link Variable 		  Constant
 
 "call s:h("Identifier",    {"fg": s:dark_blue})
 hi! link Identifier       Normal
